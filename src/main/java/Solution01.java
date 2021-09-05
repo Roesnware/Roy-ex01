@@ -5,7 +5,7 @@ public class Solution01 {
     Create a program
     scanner 'input' =  create scanner for user input
     print "What is your name? "
-    string 'name' = read input from user
+    string 'name' = read input from user using 'input' scanner
     print "Hello, string from input , nice to meet you!"
     */
     public static void main(String[] args) {
