@@ -14,4 +14,5 @@ public class Solution01 {
         String name = input.next();
         System.out.printf("Hello, %s, nice to meet you! ", name);
     }
+
 }
